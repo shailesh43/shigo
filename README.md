@@ -1,8 +1,6 @@
-# Shigo 
+![shigo](https://socialify.git.ci/shailesh43/shigo/image?description=1&font=Inter&language=1&logo=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F347540%2Fterminal-box.svg&name=1&owner=1&pattern=Solid&theme=Light)
 
-A lightweight, interactive shell implementation written in Go. This shell provides basic command-line functionality with modern features like tab completion and environment variable management.
-
-## Features
+## Functionality & Features
 
 ### Core Functionality
 - Interactive command-line interface
